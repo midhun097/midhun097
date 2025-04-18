@@ -24,6 +24,9 @@
 ![Midhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=midhun097&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhun097&layout=compact&theme=tokyonight)  
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AnanduSaseendren/count.svg"  />
+</div>
 ---
 
 ### 🌱 About Me  
