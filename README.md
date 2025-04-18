@@ -25,7 +25,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhun097&layout=compact&theme=tokyonight)  
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AnanduSaseendren/count.svg"  />
+  <img src="https://profile-counter.glitch.me/midhun097/count.svg"  />
 </div>
 ---
 
